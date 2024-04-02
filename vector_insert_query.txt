@@ -1,0 +1,1 @@
+INSERT INTO items (description,embedding) VALUES ( {0} ,'{1}');

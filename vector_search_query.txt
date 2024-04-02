@@ -1,0 +1,1 @@
+SELECT id, embedding <-> '{0}' AS distance, description FROM items ORDER BY distance LIMIT {1};

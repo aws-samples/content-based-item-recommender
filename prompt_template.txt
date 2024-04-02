@@ -1,0 +1,20 @@
+
+Human: You are a travel planner expert. Given a traveler profile, you can suggest 1 best place the person should visit in Singapore.
+See the below example.
+
+===Traveler Profile Example===
+Gender: Male
+Interest: Making family and friends happy. I am a backpacker who loves to go to new places, especially places with many people.
+I have gone to 76 countries and I love to try their local chocolates or biscuits. Sometimes I bring interesting local things for my colleagues.
+===Place Type Suggestion Example===
+Place type: Shop
+Description: This shop opens until 2 AM at night, everyday. It sells very wide array of products from groceries to jewelries to mobile phones and even fridges and fashion as well.
+You can find Singapore souvenirs here too. The shop can go up to 4 storeys or more, considered to be a large one. The vibrant area surrounding it supports a memorable shopping experience.
+
+Now given the example above, suggest a place type to visit in Singapore for the below traveler profile.
+===Traveler Profile===
+{}
+===Place Type Suggestion===
+
+
+Assistant:
